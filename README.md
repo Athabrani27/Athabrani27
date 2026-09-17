@@ -1,4 +1,6 @@
-# Hello Guyss!! 👋
+![alt text](image.png)
+
+
 
 <!--
 **Athabrani27/Athabrani27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +18,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a student at **vocational high school Sahabat Ilmu Karawang**
-- 🌱 I’m currently learning HTML and CSS 
+- 🌱 I’m currently learning HTML and CSS
+
+### Skill
+
 ![hay](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjlpdWs4ZGFwNnJtYjFnMmUzdDdxb3FtOWM2bWgyajJjZ3YzN3dpeCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/qGvmdlfJ0FtBSwxqA3/giphy.gif)
