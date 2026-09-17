@@ -1,5 +1,5 @@
 <hr><hr>
-![alt text](github-header-banner.png)
+
 
 <div align="center">
 
@@ -83,3 +83,4 @@
 [![Visitors](https://komarev.com/ghpvc/?username=Athabrani27&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+
