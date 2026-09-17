@@ -1,6 +1,6 @@
 ![alt text](image.png)
 
-[![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Welcome+to+my+Github%22%2C%22color%22%3A%22%23e5e1e1%22%2C%22fontSize%22%3A50%2C%22typingSpeed%22%3A0.47619047619047616%7D%2C%7B%22text%22%3A%22And+Emojis%21+%F0%9F%98%80%F0%9F%9A%80%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?backgroundOpacity=0&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22Welcome+to+my+Github%22%2C%22color%22%3A%22%23e5e1e1%22%2C%22typingSpeed%22%3A0.47619047619047616%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 <!--
 **Athabrani27/Athabrani27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
