@@ -16,10 +16,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![hay](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjlpdWs4ZGFwNnJtYjFnMmUzdDdxb3FtOWM2bWgyajJjZ3YzN3dpeCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/qGvmdlfJ0FtBSwxqA3/giphy.gif)
+
 
 - 🔭 I’m a student at **vocational high school Sahabat Ilmu Karawang**
 - 🌱 I’m currently learning HTML and CSS
 
 ### Skill
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white) 
 
-![hay](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cjlpdWs4ZGFwNnJtYjFnMmUzdDdxb3FtOWM2bWgyajJjZ3YzN3dpeCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/qGvmdlfJ0FtBSwxqA3/giphy.gif)
+---------
+### My social media
+![https://www.instagram.com/athabraniii_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://github.com/Athabrani27](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![https://medium.com/@muhammadathabrani](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
+---------
